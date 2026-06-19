@@ -1,0 +1,9 @@
+{
+  "expo": {
+    "name": "test1_business_logic_github_android_validation",
+    "slug": "project",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "platforms": ["android", "web"]
+  }
+}
