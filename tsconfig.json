@@ -5,12 +5,15 @@
     "esModuleInterop": true,
     "isolatedModules": true,
     "jsx": "react-native",
-    "lib": ["es2020"],
+    "lib": [
+      "es2020"
+    ],
     "moduleResolution": "node",
     "noEmit": true,
     "resolveJsonModule": true,
     "strict": true,
     "target": "ES2020",
     "skipLibCheck": true
-  }
+  },
+  "extends": "expo/tsconfig.base"
 }
