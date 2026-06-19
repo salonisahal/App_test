@@ -72,6 +72,14 @@ export const testimonials: Testimonial[] = [
     avatar: 'https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80',
     rating: 4,
     quote: 'Our team loves the workflow automations and intuitive layout.'
+  },
+  {
+    id: 'testimonial-4',
+    name: 'Anurag Singh',
+    company: 'Vertex Ledger',
+    avatar: 'https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?auto=format&fit=crop&w=400&q=80',
+    rating: 1,
+    quote: 'We ran into delays, clunky automation, and support did not resolve our issues.'
   }
 ];
 

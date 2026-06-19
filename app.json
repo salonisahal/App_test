@@ -4,6 +4,15 @@
     "slug": "project",
     "version": "1.0.0",
     "orientation": "portrait",
-    "platforms": ["android", "web"]
+    "platforms": [
+      "android",
+      "web"
+    ],
+    "android": {
+      "package": "com.xccelera.test1businesslogic"
+    },
+    "splash": {
+      "backgroundColor": "#FFFFFF"
+    }
   }
 }
